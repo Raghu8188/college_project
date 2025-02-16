@@ -1,0 +1,201 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+html,body
+{
+    font-family: Roboto,sans-serif,arial;
+    font-size: 16px;
+    color: #242424;
+}
+.header
+{
+     background-color: #0055a4;
+     padding: 6px;
+
+}
+.header b
+{
+    background-color: #fff;
+    color:red;
+    padding: 10px;
+    font-size: 20px;
+}
+.header marquee
+{
+    font-size:20px;
+    color: #ffffff;
+    width: 80%;
+}
+.logo
+{
+    height: 65px;
+}
+nav
+{
+   float: right;
+   padding: 25px 0px;
+}
+nav a
+{
+     color: black;
+     text-decoration: none;
+     font-size: 18px;
+     padding: 2px 10px;
+     font-weight:bold;
+}
+.slider img
+{
+    width: 100%;
+}
+.main-section
+{
+     width: 100%;
+     float: left;
+     padding: 100px 0px 100px 0px;
+}
+.event
+{
+    width:32%;
+    margin-right: 1%;
+    float: left;
+    background-color: #fff;
+}
+.event i
+{
+     color: red;
+     font-size: 14px;
+}
+.event div
+{
+     padding: 10px;
+}
+.event .heading
+{
+    padding: 10px;
+    color: #fff;
+    background-color: #0055a4;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+.event ul li
+{
+    margin-bottom: 20px;
+    width: 100%;
+    float: left;
+    list-style: none;
+}
+.campus-news span
+{
+   width: 80px;
+   float: left;
+}
+.campus-news h2
+{
+    font-weight: 600;
+    font-size: 16px;
+}
+.campus-news h6
+{
+    font-weight: 500;
+    font-size: 13px;
+    color: red;
+}
+.campus-news p
+{
+    font-size: 14px;
+}
+.event-date
+{
+    background-color: red;
+    float: left;
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+    padding: 8px 12px;
+    margin-right: 10px;
+}
+.heading
+{
+     font-size: 28px;
+     font-weight: 500;
+     margin-bottom: 30px;
+     color: #0055a4;
+}
+.subhead
+{
+    font-size: 18px;
+    color:red;
+    font-weight: 500;
+}
+.abouts-us div
+{
+    width: 45%;
+    float: left;
+    line-height: 30px;
+    font-size: 18px;
+}
+.abouts-us h4
+{
+    font-size: 18px;
+    color:red;
+    font-weight: 500;
+}
+.abouts-us p
+{
+     font-size: 16px;
+     margin-bottom: 20px;
+     padding-right: 30px;
+     line-height: 23px;
+}
+.abouts-us img
+{
+    width: 40%;
+    float: left;
+}
+.testimonial
+{
+    width: 30.5%;
+    float: left;
+    margin-right: 2.5%;
+}
+.testimonial-text
+{
+    background-color: #0055a40f;
+    padding: 20px;
+    line-height: 35px;
+    border-radius: 10px;
+    font-size: 18px;
+    text-align: center;
+    border: 1px solid #0055a4;
+}
+
+.testimonial-details
+{
+    float: left;
+    margin-top: 10px;
+}
+.testimonial-img
+{
+    float: left;
+}
+.testimonial-name
+{
+    margin-left: 10px;
+    float: left;
+}
+.testimonial-name h5
+{
+     font-size: 18px;
+     margin-top: 8px;
+}
+.gallery img
+{
+     width:23.2%;
+     margin-left: 1.5%;
+     margin-bottom: 20px;
+}
